@@ -13,7 +13,7 @@ int main(int argc, char const *argv[]){
   	char *country_code;
   	char *best_time_to_visit;
   	int rating,code;
-  	char month[12][12] = {"January","February","March","April","June","July","August","September","October","November","December"};
+  	char month[12][12] = {"January","February","March","April","May","June","July","August","September","October","November","December"};
   	while(fgets(token,sizeof(token),fp1)!=NULL){
 		//printf("HELLO");
     	country = strtok(token,",");
