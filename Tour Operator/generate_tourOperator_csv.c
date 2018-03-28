@@ -29,7 +29,7 @@ int main(int argc, char const *argv[]){
 				continue;
 		experience = experience_list[rating];
 		fprintf(fp2,"%s,%s,%s,%d,%s\n",tour_ID,tour_operator,package_id,rating,experience);
-		fprintf(fp5,"insert into tour_operator values(\"%s\",\"%s\",\"%s\",%d,%s);\n",tour_ID,tour_operator,package_id,rating,experience);
+		fprintf(fp5,"insert into tour_operator values(\"%s\",\"%s\",\"%s\",%d,\"%s\");\n",tour_ID,tour_operator,package_id,rating,experience);
 		fprintf(fp3,"%s\n",tour_ID);
 		fflush(fp5);
 		fflush(fp2);
