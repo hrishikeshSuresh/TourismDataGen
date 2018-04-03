@@ -205,19 +205,19 @@ PAN4738,Pan Tours,UGN4620,9,Outstanding
 PAN4738,Pan Tours,UKR2920,3,Mediocre
 KRI8347,Krishna Tours,UAE1150,5,Better than many other operators
 BAM7523,Bambooo Tours,GRB5740,5,Better than many other operators
-TAN7563,Tandas Tours,USA9510,7,Very Good
-PAN4738,Pan Tours,USA5370,10,The best tour operator
-PUB7458,PUBG Tours,UVG300,2,Poor
-TAN7563,Tandas Tours,URG810,4,Average
-PUB7458,PUBG Tours,UZB20,10,The best tour operator
-PUB7458,PUBG Tours,VNT7960,3,Mediocre
-TAN7563,Tandas Tours,VAT5800,6,Good
-PUB7458,PUBG Tours,VEN9700,7,Very Good
-BAM7523,Bambooo Tours,VNM3790,8,Awesome
-PAN4738,Pan Tours,WSA5360,0,Not Rated
-PUB7458,PUBG Tours,YMN4830,10,The best tour operator
-KRI8347,Krishna Tours,ZMB8570,0,Not Rated
-KRI8347,Krishna Tours,ZMV9110,4,Average
+TAN7563,Tandas Tours,UVG9510,7,Very Good
+PAN4738,Pan Tours,URG5370,10,The best tour operator
+PUB7458,PUBG Tours,UZB300,2,Poor
+TAN7563,Tandas Tours,VNT810,4,Average
+PUB7458,PUBG Tours,VAT20,10,The best tour operator
+PUB7458,PUBG Tours,VEN7960,3,Mediocre
+TAN7563,Tandas Tours,VNM5800,6,Good
+PUB7458,PUBG Tours,WSA9700,7,Very Good
+BAM7523,Bambooo Tours,YMN3790,8,Awesome
+PAN4738,Pan Tours,ZMB5360,0,Not Rated
+PUB7458,PUBG Tours,ZMV4830,10,The best tour operator
+KRI8347,Krishna Tours,GUI8570,0,Not Rated
+KRI8347,Krishna Tours,GUI9110,4,Average
 APH9348,Aphrodite Tours,GUI2360,6,Good
 PAN4738,Pan Tours,GUI1050,8,Awesome
 TAN7563,Tandas Tours,GUI2440,5,Better than many other operators
@@ -235,16 +235,16 @@ TAN7563,Tandas Tours,GUI9190,1,Very Poor
 PUB7458,PUBG Tours,GUI2940,0,Not Rated
 PUB7458,PUBG Tours,GUI2350,7,Very Good
 PAN4738,Pan Tours,GUI1530,7,Very Good
-PUB7458,PUBG Tours,GUI3280,9,Outstanding
-PAN4738,Pan Tours,GUI7100,6,Good
+PUB7458,PUBG Tours,GUB3280,9,Outstanding
+PAN4738,Pan Tours,GUB7100,6,Good
 BOO8423,Boozey Woozey Tours,GUB8360,9,Outstanding
 PUB7458,PUBG Tours,GUB900,7,Very Good
 KRI8347,Krishna Tours,GUB9040,1,Very Poor
 APH9348,Aphrodite Tours,GUB6330,3,Mediocre
 BAM7523,Bambooo Tours,GUB730,1,Very Poor
 KRI8347,Krishna Tours,GUB8050,0,Not Rated
-PUB7458,PUBG Tours,GUB5030,2,Poor
-MYT2312,Mythos Tours,GUB1950,4,Average
+PUB7458,PUBG Tours,GUY5030,2,Poor
+MYT2312,Mythos Tours,GUY1950,4,Average
 TAN7563,Tandas Tours,GUY1200,4,Average
 TAN7563,Tandas Tours,GUY7630,4,Average
 MYT2312,Mythos Tours,GUY9810,2,Poor
@@ -253,8 +253,8 @@ PAN4738,Pan Tours,GUY5180,0,Not Rated
 TAN7563,Tandas Tours,GUY5320,2,Poor
 APH9348,Aphrodite Tours,GUY3210,8,Awesome
 APH9348,Aphrodite Tours,GUY1720,0,Not Rated
-KRI8347,Krishna Tours,GUY400,8,Awesome
-KRI8347,Krishna Tours,GUY3980,10,The best tour operator
+KRI8347,Krishna Tours,HAI400,8,Awesome
+KRI8347,Krishna Tours,HAI3980,10,The best tour operator
 PAN4738,Pan Tours,HAI3470,10,The best tour operator
 BAM7523,Bambooo Tours,HAI5730,0,Not Rated
 BAM7523,Bambooo Tours,HAI5220,1,Very Poor
@@ -262,8 +262,8 @@ PUB7458,PUBG Tours,HAI820,3,Mediocre
 BOO8423,Boozey Woozey Tours,HAI2040,4,Average
 PUB7458,PUBG Tours,HAI8980,1,Very Poor
 PUB7458,PUBG Tours,HAI2780,8,Awesome
-PAN4738,Pan Tours,HAI2620,0,Not Rated
-PUB7458,PUBG Tours,HAI8480,1,Very Poor
+PAN4738,Pan Tours,HON2620,0,Not Rated
+PUB7458,PUBG Tours,HON8480,1,Very Poor
 BAM7523,Bambooo Tours,HON2720,6,Good
 PAN4738,Pan Tours,HON3350,5,Better than many other operators
 TAN7563,Tandas Tours,HON3650,10,The best tour operator
@@ -281,9 +281,9 @@ APH9348,Aphrodite Tours,HON5390,10,The best tour operator
 BOO8423,Boozey Woozey Tours,HON1090,4,Average
 APH9348,Aphrodite Tours,HON1140,9,Outstanding
 MYT2312,Mythos Tours,HON4260,0,Not Rated
-KRI8347,Krishna Tours,HON2230,6,Good
-APH9348,Aphrodite Tours,HON5320,2,Poor
-KRI8347,Krishna Tours,HKG8750,0,Not Rated
+KRI8347,Krishna Tours,HKG2230,6,Good
+APH9348,Aphrodite Tours,HUN5320,2,Poor
+KRI8347,Krishna Tours,HUN8750,0,Not Rated
 PUB7458,PUBG Tours,HUN5900,9,Outstanding
 PUB7458,PUBG Tours,HUN1310,1,Very Poor
 BOO8423,Boozey Woozey Tours,HUN4940,2,Poor
@@ -302,8 +302,8 @@ BAM7523,Bambooo Tours,HUN210,4,Average
 BAM7523,Bambooo Tours,HUN8600,1,Very Poor
 MYT2312,Mythos Tours,HUN6850,9,Outstanding
 BAM7523,Bambooo Tours,HUN9300,10,The best tour operator
-KRI8347,Krishna Tours,HUN3140,6,Good
-BAM7523,Bambooo Tours,HUN8200,4,Average
+KRI8347,Krishna Tours,ICE3140,6,Good
+BAM7523,Bambooo Tours,ICE8200,4,Average
 PUB7458,PUBG Tours,ICE5280,4,Average
 PUB7458,PUBG Tours,ICE4900,7,Very Good
 PAN4738,Pan Tours,ICE6180,9,Outstanding
@@ -311,8 +311,8 @@ APH9348,Aphrodite Tours,ICE9280,5,Better than many other operators
 BAM7523,Bambooo Tours,ICE3100,7,Very Good
 BOO8423,Boozey Woozey Tours,ICE2250,6,Good
 PUB7458,PUBG Tours,ICE4370,6,Good
-APH9348,Aphrodite Tours,ICE7220,8,Awesome
-BAM7523,Bambooo Tours,ICE6570,9,Outstanding
+APH9348,Aphrodite Tours,IND7220,8,Awesome
+BAM7523,Bambooo Tours,IND6570,9,Outstanding
 PUB7458,PUBG Tours,IND1260,1,Very Poor
 MYT2312,Mythos Tours,IND6510,6,Good
 PAN4738,Pan Tours,IND5280,10,The best tour operator
@@ -395,5 +395,3 @@ TAN7563,Tandas Tours,IND2800,3,Mediocre
 KRI8347,Krishna Tours,IND100,5,Better than many other operators
 PUB7458,PUBG Tours,IND5830,10,The best tour operator
 BOO8423,Boozey Woozey Tours,IND7080,3,Mediocre
-TAN7563,Tandas Tours,IND5570,0,Not Rated
-PUB7458,PUBG Tours,IND7100,10,The best tour operator
