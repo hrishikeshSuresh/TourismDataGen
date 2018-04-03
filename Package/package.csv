@@ -205,19 +205,19 @@ UGN4620,Kalangala
 UKR2920,Mykolayiv
 UAE1150,Umm al Qaywayn
 GRB5740,Greenock
-USA9510,Christiansted
-USA5370,Colonia del Sacramento
-UVG300,Khujayli
-URG810,Luganville
-UZB20,Vatican City
-VNT7960,San Carlos
-VAT5800,Tay Ninh
-VEN9700,Bir Lehlou
-VNM3790,Al Bayda
-WSA5360,Kawambwa
-YMN4830,Mazowe
-ZMB8570,Beyla
-ZMV9110,Gueckedou
+UVG9510,Christiansted
+URG5370,Colonia del Sacramento
+UZB300,Khujayli
+VNT810,Luganville
+VAT20,Vatican City
+VEN7960,San Carlos
+VNM5800,Tay Ninh
+WSA9700,Bir Lehlou
+YMN3790,Al Bayda
+ZMB5360,Kawambwa
+ZMV4830,Mazowe
+GUI8570,Beyla
+GUI9110,Gueckedou
 GUI2360,Dinguiraye
 GUI1050,Dabola
 GUI2440,Kerouane
@@ -235,16 +235,16 @@ GUI9190,Kindia
 GUI2940,Kankan
 GUI2350,Nzerekore
 GUI1530,Conakry
-GUI3280,Cacheu
-GUI7100,Farim
+GUB3280,Cacheu
+GUB7100,Farim
 GUB8360,Fulacunda
 GUB900,Gabu
 GUB9040,Catio
 GUB6330,Bolama
 GUB730,Bafata
 GUB8050,Bissau
-GUB5030,Corriverton
-GUB1950,Ituni
+GUY5030,Corriverton
+GUY1950,Ituni
 GUY1200,Lethem
 GUY7630,Kumaka
 GUY9810,Bartica
@@ -253,8 +253,8 @@ GUY5180,Linden
 GUY5320,Mabaruma
 GUY3210,New Amsterdam
 GUY1720,Georgetown
-GUY400,Jeremie
-GUY3980,Port-De-Paix
+HAI400,Jeremie
+HAI3980,Port-De-Paix
 HAI3470,Hinche
 HAI5730,Fort-Liberte
 HAI5220,Jacmel
@@ -262,8 +262,8 @@ HAI820,Les Cayes
 HAI2040,Gonaives
 HAI8980,Cap-Haitien
 HAI2780,Port-au-Prince
-HAI2620,Yoro
-HAI8480,La Esperanza
+HON2620,Yoro
+HON8480,La Esperanza
 HON2720,La Paz
 HON3350,Santa Barbara
 HON3650,Gracias
@@ -281,9 +281,9 @@ HON5390,Choluteca
 HON1090,La Ceiba
 HON1140,San Pedro Sula
 HON4260,Tegucigalpa
-HON2230,Hong Kong
-HON5320,Veszprem
-HKG8750,Zalaegerszeg
+HKG2230,Hong Kong
+HUN5320,Veszprem
+HUN8750,Zalaegerszeg
 HUN5900,Tatabanya
 HUN1310,Szekszard
 HUN4940,Salgotarjan
@@ -302,8 +302,8 @@ HUN210,Szeged
 HUN8600,Debrecen
 HUN6850,Szolnok
 HUN9300,Budapest
-HUN3140,Borgarnes
-HUN8200,Egilsstadir
+ICE3140,Borgarnes
+ICE8200,Egilsstadir
 ICE5280,Saudarkrokur
 ICE4900,Selfoss
 ICE6180,Hofn
@@ -311,8 +311,8 @@ ICE9280,Isafjordur
 ICE3100,Akureyi
 ICE2250,Keflavik
 ICE4370,Reykjavik
-ICE7220,Panaji
-ICE6570,Simla
+IND7220,Panaji
+IND6570,Simla
 IND1260,Gurgaon
 IND6510,Sonipat
 IND5280,Rohtak
@@ -395,5 +395,3 @@ IND2800,Etawah
 IND100,Dehra Dun
 IND5830,Haora
 IND7080,Alipur Duar
-IND5570,
-IND7100,
