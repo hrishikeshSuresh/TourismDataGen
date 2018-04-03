@@ -1,0 +1,374 @@
+city_ascii,country,iso3
+Qal eh-ye,Afghanistan,AFG
+Mariehamn,Aland,ALD
+Kruje,Albania,ALB
+Jijel,Algeria,DZA
+Pago Pago,American Samoa,ASM
+Andorra,Andorra,AND
+Mucusso,Angola,AGO
+Artigas Base,Antarctica,ATA
+Saint John's,Antigua and Barbuda,ATG
+28 de Noviembre,Argentina,ARG
+Ashtarak,Armenia,ARM
+Oranjestad,Aruba,ABW
+Central Coast,Australia,AUS
+Bregenz,Austria,AUT
+Gadabay,Azerbaijan,AZE
+Manama,Bahrain,BHR
+Tangail,Bangladesh,BGD
+Bridgetown,Barbados,BRB
+Baranavichy,Belarus,BLR
+Mons,Belgium,BEL
+El Cayo,Belize,BLZ
+Lokossa,Benin,BEN
+Hamilton,Bermuda,BMU
+Paro,Bhutan,BTN
+Punata,Bolivia,BOL
+Zenica,Bosnia and Herzegovina,BIH
+Mochudi,Botswana,BWA
+Grajau,Brazil,BRA
+Bandar Seri Begawan,Brunei,BRN
+Lovec,Bulgaria,BGR
+Fada Ngourma,Burkina Faso,BFA
+Cankuzo,Burundi,BDI
+Kampong Spoe,Cambodia,KHM
+Buea,Cameroon,CMR
+Selkirk,Canada,CAN
+Mindelo,Cape Verde,CPV
+George Town,Cayman Islands,CYM
+Mobaye,Central African Republic,CAF
+Lai,Chad,TCD
+Rio Verde,Chile,CHL
+Yumen,China,CHN
+Yopal,Colombia,COL
+Moroni,Comoros,COM
+Madingou,Congo (Brazzaville),COG
+Buluko,Congo (Kinshasa),COD
+Rarotonga,Cook Islands,COK
+Heredia,Costa Rica,CRI
+Sibenik,Croatia,HRV
+Ciego de Avila,Cuba,CUB
+Willemstad,Curacao,CUW
+Larnaka,Cyprus,CYP
+Usti Nad Labem,Czech Republic,CZE
+Vejle,Denmark,DNK
+Dikhil,Djibouti,DJI
+Roseau,Dominica,DMA
+Sabaneta,Dominican Republic,DOM
+Dili,East Timor,TLS
+Puyo,Ecuador,ECU
+Shibin el Kom,Egypt,EGY
+Ahuachapan,El Salvador,SLV
+Evinayong,Equatorial Guinea,GNQ
+Tessenei,Eritrea,ERI
+Haapsalu,Estonia,EST
+Awasa,Ethiopia,ETH
+Fox Bay,Falkland Islands,FLK
+Klaksvik,Faroe Islands,FRO
+Palikir,Federated States of Micronesia,FSM
+Nandi,Fiji,FJI
+Hameenlinna,Finland,FIN
+Annecy,France,FRA
+Papeete,French Polynesia,PYF
+Ebebiyin,Gabon,GAB
+Kutaisi,Georgia,GEO
+Mainz,Germany,DEU
+Sunyani,Ghana,GHA
+Gibraltar,Gibraltar,GIB
+Lamia,Greece,GRC
+Qasigiannguit,Greenland,GRL
+Saint George's,Grenada,GRD
+Agana,Guam,GUM
+Salama,Guatemala,GTM
+Mali,Guinea,GIN
+Cacheu,Guinea Bissau,GNB
+Corriverton,Guyana,GUY
+Jeremie,Haiti,HTI
+Yoro,Honduras,HND
+Hong Kong,Hong Kong S.A.R.,HKG
+Veszprem,Hungary,HUN
+Borgarnes,Iceland,ISL
+Panaji,India,IND
+Binjai,Indonesia,IDN
+Yasuj,Iran,IRN
+Dahuk,Iraq,IRQ
+Ros Comain,Ireland,IRL
+Douglas,Isle of Man,IMN
+Ramla,Israel,ISR
+Potenza,Italy,ITA
+Touba,Ivory Coast,CIV
+Lucea,Jamaica,JAM
+Okayama,Japan,JPN
+Al Mafraq,Jordan,JOR
+Turgay,Kazakhstan,KAZ
+Nyeri,Kenya,KEN
+Tarawa,Kiribati,KIR
+Prizren,Kosovo,KOS
+Hawalli,Kuwait,KWT
+Tokmak,Kyrgyzstan,KGZ
+Ban Houayxay,Laos,LAO
+Rezekne,Latvia,LVA
+B'abda,Lebanon,LBN
+Teyateyaneng,Lesotho,LSO
+Barclayville,Liberia,LBR
+Dirj,Libya,LBY
+Vaduz,Liechtenstein,LIE
+Panevezys,Lithuania,LTU
+Diekirch,Luxembourg,LUX
+Macau,Macau S.A.R,MAC
+Tetovo,Macedonia,MKD
+Sambava,Madagascar,MDG
+Mzimba,Malawi,MWI
+Kangar,Malaysia,MYS
+Male,Maldives,MDV
+Goundam,Mali,MLI
+Valletta,Malta,MLT
+Majuro,Marshall Islands,MHL
+Fderik,Mauritania,MRT
+Curepipe,Mauritius,MUS
+Vicente Guerrero,Mexico,MEX
+Dubasari,Moldova,MDA
+Monaco,Monaco,MCO
+Suchboatar,Mongolia,MNG
+Podgorica,Montenegro,MNE
+Ksar El Kebir,Morocco,MAR
+Moatize,Mozambique,MOZ
+Loikaw,Myanmar,MMR
+Omaruru,Namibia,NAM
+Sallyan,Nepal,NPL
+Assen,Netherlands,NLD
+Noumea,New Caledonia,NCL
+Greymouth,New Zealand,NZL
+Somoto,Nicaragua,NIC
+Goure,Niger,NER
+Umuahia,Nigeria,NGA
+Sariwon,North Korea,PRK
+Kyrenia,Northern Cyprus,CYN
+Capitol Hill,Northern Mariana Islands,MNP
+Arendal,Norway,NOR
+Alayat Samail,Oman,OMN
+Parachinar,Pakistan,PAK
+Koror,Palau,PLW
+Ramallah,Palestine,PSE
+El Porvenir,Panama,PAN
+Wabag,Papua New Guinea,PNG
+Mariscal Jose F. Estigarribia,Paraguay,PRY
+Ferrenafe,Peru,PER
+San Carlos,Philippines,PHL
+Olsztyn,Poland,POL
+Aveiro,Portugal,PRT
+Ponce,Puerto Rico,PRI
+Doha,Qatar,QAT
+Targu Jiu,Romania,ROU
+Nazran,Russia,RUS
+Gikongoro,Rwanda,RWA
+Basseterre,Saint Kitts and Nevis,KNA
+Castries,Saint Lucia,LCA
+Kingstown,Saint Vincent and the Grenadines,VCT
+Apia,Samoa,WSM
+San Marino,San Marino,SMR
+Santo Antonio,Sao Tome and Principe,STP
+An Nabk,Saudi Arabia,SAU
+Fatick,Senegal,SEN
+Subotica,Serbia,SRB
+Victoria,Seychelles,SYC
+Makeni,Sierra Leone,SLE
+Singapore,Singapore,SGP
+Banska Bystrica,Slovakia,SVK
+Maribor,Slovenia,SVN
+Gizo,Solomon Islands,SLB
+Xuddur,Somalia,SOM
+Laascaanood,Somaliland,SOL
+Qacha's Nek,South Africa,ZAF
+Grytviken,South Georgia and the Islands,SGS
+Eumseong,South Korea,KOR
+Bentiu,South Sudan,SSD
+Merida,Spain,ESP
+Trincomalee,Sri Lanka,LKA
+Ed Damazin,Sudan,SDN
+Onverwacht,Suriname,SUR
+Longyearbyen,Svalbard and Jan Mayen Islands,SJM
+Piggs Peak,Swaziland,SWZ
+Falun,Sweden,SWE
+Delemont,Switzerland,CHE
+Dar'a,Syria,SYR
+Bade,Taiwan,TWN
+Leninobod,Tajikistan,TJK
+Wete,Tanzania,TZA
+Mae Hong Son,Thailand,THA
+Freeport,The Bahamas,BHS
+Georgetown,The Gambia,GMB
+Bassar,Togo,TGO
+Neiafu,Tonga,TON
+San Fernando,Trinidad and Tobago,TTO
+Medemine,Tunisia,TUN
+Kirklareli,Turkey,TUR
+Gyzlarbat,Turkmenistan,TKM
+Grand Turk,Turks and Caicos Islands,TCA
+Funafuti,Tuvalu,TUV
+Kalangala,Uganda,UGA
+Mykolayiv,Ukraine,UKR
+Umm al Qaywayn,United Arab Emirates,ARE
+Greenock,United Kingdom,GBR
+Faribault,United States of America,USA
+Christiansted,United States Virgin Islands,VIR
+Colonia del Sacramento,Uruguay,URY
+Khujayli,Uzbekistan,UZB
+Luganville,Vanuatu,VUT
+Vatican City,Vatican (Holy Sea),VAT
+San Carlos,Venezuela,VEN
+Tay Ninh,Vietnam,VNM
+Bir Lehlou,Western Sahara,SAH
+Al Bayda,Yemen,YEM
+Kawambwa,Zambia,ZMB
+Mazowe,Zimbabwe,ZWE
+Selkirk,Canada,CAN
+Berens River,Canada,CAN
+Pukatawagan,Canada,CAN
+Gimli,Canada,CAN
+Island Lake,Canada,CAN
+Melville,Canada,CAN
+Weyburn,Canada,CAN
+La Ronge,Canada,CAN
+Stony Rapids,Canada,CAN
+Camrose,Canada,CAN
+Hinton,Canada,CAN
+Vegreville,Canada,CAN
+Stettler,Canada,CAN
+Lac La Biche,Canada,CAN
+Wetaskiwin,Canada,CAN
+Meander River,Canada,CAN
+Creston,Canada,CAN
+Cranbrook,Canada,CAN
+Terrace,Canada,CAN
+Chilliwack,Canada,CAN
+Hall Beach,Canada,CAN
+Guwahati,India,IND
+Ludhiana,India,IND
+Kota,India,IND
+Jodhpur,India,IND
+Lucknow,India,IND
+Saharanpur,India,IND
+Ranchi,India,IND
+Bhagalpur,India,IND
+Raipur,India,IND
+Jabalpur,India,IND
+Indore,India,IND
+Pondicherry,India,IND
+Salem,India,IND
+Tiruchirappalli,India,IND
+Kozhikode,India,IND
+Bhubaneshwar,India,IND
+Jamshedpur,India,IND
+Vishakhapatnam,India,IND
+Amritsar,India,IND
+Varanasi,India,IND
+Asansol,India,IND
+Bhilai,India,IND
+Bhopal,India,IND
+Madurai,India,IND
+Coimbatore,India,IND
+Delhi,India,IND
+Hyderabad,India,IND
+Pune,India,IND
+Nagpur,India,IND
+Jaipur,India,IND
+Kanpur,India,IND
+Patna,India,IND
+Chennai,India,IND
+Ahmedabad,India,IND
+Surat,India,IND
+New Delhi,India,IND
+Bangalore,India,IND
+Mumbai,India,IND
+Kolkata,India,IND
+Binjai,Indonesia,IDN
+Padangsidempuan,Indonesia,IDN
+Tarutung,Indonesia,IDN
+Tebingtinggi,Indonesia,IDN
+Tidore,Indonesia,IDN
+Bukittinggi,Indonesia,IDN
+Sawahlunto,Indonesia,IDN
+Padangpanjang,Indonesia,IDN
+Amahai,Indonesia,IDN
+Mataram,Indonesia,IDN
+Dubai,United Arab Emirates,ARE
+Greenock,United Kingdom,GBR
+Sunderland,United Kingdom,GBR
+Southampton,United Kingdom,GBR
+Bristol,United Kingdom,GBR
+Bournemouth,United Kingdom,GBR
+Omagh,United Kingdom,GBR
+Chester,United Kingdom,GBR
+Swansea,United Kingdom,GBR
+Carlisle,United Kingdom,GBR
+Southend,United Kingdom,GBR
+Reading,United Kingdom,GBR
+Leicester,United Kingdom,GBR
+Bradford,United Kingdom,GBR
+Sheffield,United Kingdom,GBR
+Fort William,United Kingdom,GBR
+Ayr,United Kingdom,GBR
+Aberdeen,United Kingdom,GBR
+Perth,United Kingdom,GBR
+Dundee,United Kingdom,GBR
+Middlesbrough,United Kingdom,GBR
+Coventry,United Kingdom,GBR
+Bath,United Kingdom,GBR
+Exeter,United Kingdom,GBR
+Riverside,United States of America,USA
+Delano,United States of America,USA
+San Mateo,United States of America,USA
+Vallejo,United States of America,USA
+Glenwood Springs,United States of America,USA
+Aurora,United States of America,USA
+Greeley,United States of America,USA
+Tonopah,United States of America,USA
+Deming,United States of America,USA
+Truth or Consequences,United States of America,USA
+Las Vegas,United States of America,USA
+Farmington,United States of America,USA
+Springfield,United States of America,USA
+Tillamook,United States of America,USA
+Ontario,United States of America,USA
+La Grande,United States of America,USA
+Richfield,United States of America,USA
+Nephi,United States of America,USA
+Lander,United States of America,USA
+Powell,United States of America,USA
+Paragould,United States of America,USA
+Iowa City,United States of America,USA
+Ottumwa,United States of America,USA
+Spencer,United States of America,USA
+Ft. Dodge,United States of America,USA
+Hutchinson,United States of America,USA
+Kansas City,United States of America,USA
+Lawrence,United States of America,USA
+Garden City,United States of America,USA
+Manhattan,United States of America,USA
+Hays,United States of America,USA
+Goodland,United States of America,USA
+Independence,United States of America,USA
+Kirksville,United States of America,USA
+Kearney,United States of America,USA
+Grand Island,United States of America,USA
+Alliance,United States of America,USA
+Bartlesville,United States of America,USA
+Enid,United States of America,USA
+Ardmore,United States of America,USA
+McAlester,United States of America,USA
+Stillwater,United States of America,USA
+Lead,United States of America,USA
+Slidell,United States of America,USA
+Lake Charles,United States of America,USA
+Metairie,United States of America,USA
+New Iberia,United States of America,USA
+Bryan,United States of America,USA
+San Marcos,United States of America,USA
+Longview,United States of America,USA
+McAllen,United States of America,USA
+Harlingen,United States of America,USA
+Alice,United States of America,USA
+New Braunfels,United States of America,USA
+Cleburne,United States of America,USA
+Brownwood,United States of America,USA

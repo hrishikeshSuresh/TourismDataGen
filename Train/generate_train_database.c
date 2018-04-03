@@ -27,7 +27,7 @@ int main(int argc, char const *argv[]){
 			dest_code = strtok(NULL,",");
 			if(strcmp(dest_country,source_country)==0){
 				if(strcmp(dest_city,source_city)!=0){
-					code = rand()%200;
+					code = rand()%200 + 201;
 					cost = 500 + rand()%1000;
 					luxury_class = luxury_class_list[rand()%3];
 					fprintf(fp5,"%s%d\n",dest_code,code);
