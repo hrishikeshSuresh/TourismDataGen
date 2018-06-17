@@ -13,7 +13,7 @@ int main(int argc, char const *argv[]){
   	char *country_code;
   	char *best_time_to_visit;
   	int rating,code;
-	int i = 31;
+	int i = 1131;
   	char month[12][12] = {"January","February","March","April","May","June","July","August","September","October","November","December"};
   	while(fgets(token,sizeof(token),fp1)!=NULL){
     	country = strtok(token,",");
@@ -21,9 +21,9 @@ int main(int argc, char const *argv[]){
     	best_time_to_visit = month[rand()%12];
     	rating = rand()%10;
     	country_code = strtok(NULL,"-");
-			code = rand()%1000 + i;
+			code = i;
   	 	fprintf(fp2,"%s,%s,%s,%d,%s%d\n",country,city,best_time_to_visit,rating,country_code,code);
-			fprintf(fp3,"%s%d0\n",country_code,code);
+			fprintf(fp3,"%s%d\n",country_code,code);
 		i = i + 6;
   	}
   	fclose(fp1);

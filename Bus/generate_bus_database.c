@@ -16,6 +16,7 @@ int main(int argc, char const *argv[]){
 	char token1[100],token2[100];
 	char *luxury_class;
 	int code;
+	int i = 101;
 	while(fgets(token1,sizeof(token1),fp1)!=NULL){
 		fp3 = fopen("country_city.csv","r");
 		source_city = strtok(token1,",");
@@ -27,11 +28,12 @@ int main(int argc, char const *argv[]){
 			dest_code = strtok(NULL,",");
 			if(strcmp(dest_country,source_country)==0){
 				if(strcmp(dest_city,source_city)!=0){
-					code = rand()%200;
+					code = i;
 					cost = 500 + rand()%1000;
 					luxury_class = luxury_class_list[rand()%3];
 					fprintf(fp5,"%s%d\n",source_code,code);
 					fprintf(fp4,"%s%d,%s,%s,%s,%d\n",source_code,code,source_city,dest_city,luxury_class,cost);
+					i = i + 2;
 				}					
 			}
 		}

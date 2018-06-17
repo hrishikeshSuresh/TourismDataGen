@@ -14,7 +14,7 @@ int main(int argc, char const *argv[]){
 	char *city;
 	char token[300];
 	while(fgets(token,sizeof(token),fp1)!=NULL){
-		id = atoi(strtok(token,","));
+		id = atoi(strtok(token,",")) + rand()%6789;
 		restaurant_name = strtok(NULL,",");
 		phone_number = strtok(NULL,",");
 		website = strtok(NULL,",");
